@@ -21,10 +21,8 @@ print(f"Recieved {data}")
 
 
 
+# client binded to  :65432
 # b'thanks for connecting'
 # Recieved b'thanks for connecting'
-
-
-
 
 
